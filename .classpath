@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="src" path="test"/>
+	<classpathentry kind="lib" path="Jars_lib/c3p0-0.9.5.4.jar"/>
+	<classpathentry kind="lib" path="Jars_lib/jcalendar-1.4.jar"/>
+	<classpathentry kind="lib" path="Jars_lib/mchange-commons-java-0.2.16.jar"/>
+	<classpathentry kind="lib" path="Jars_lib/mysql-connector-j-8.0.32.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
